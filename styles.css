@@ -50,7 +50,7 @@ a {
 .hero-content {
     display: flex;
     color: #E5E7EB;
-    gap: 8vw;
+    justify-content: space-between;
 }
 
 .hero-content-left {
