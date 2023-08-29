@@ -95,4 +95,42 @@ a {
 .info-section {
     display: flex;
     flex-direction: column;
+    margin-top: 3vh;
+    margin-bottom: 4vh;
+    gap: 3vh;
 }
+
+.item img {
+    width: 8vw;
+    height: auto;
+    outline: 3px solid #3882F6;
+    border-radius: 10px;
+}
+
+.feature-boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .7vh;
+    flex-basis: 12vw;
+}
+
+.text {
+    text-align: center;
+    color: rgb(49, 49, 49);
+    font-size: small;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+  }
