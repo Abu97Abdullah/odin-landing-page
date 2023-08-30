@@ -118,7 +118,7 @@ a {
     flex-wrap: wrap;
     align-items: center;
     gap: .7vh;
-    flex-basis: 12vw;
+    flex-basis: 10vw;
 }
 
 .text {
@@ -133,4 +133,16 @@ a {
     color: #1F2937;
     display: flex;
     justify-content: center;
-  }
+}
+
+.quote-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    padding: 5vh 25vw;
+}
+
