@@ -74,9 +74,9 @@ a {
 button {
     background-color: #3882F6;
     color: #F9FAF8;
-    width: 20%;
-    height: 15%;
-    border-radius: 15px 15px 15px 15px;
+    width: 6vw;
+    height: 3vh;
+    border-radius: 12px;
 }
 
 .audio-content {
@@ -161,7 +161,7 @@ button {
     background-color: #3882F6;
     border-radius: 9px;
     gap: 5vw;
-    padding: 4vh 4vw;
+    padding: 5vh 5vw;
 }
 
 .pop-up-left {
